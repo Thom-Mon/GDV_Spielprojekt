@@ -1,0 +1,32 @@
+﻿  GDV_Spielprojekt.cpp
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(353,9): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(566,9): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(712,9): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(1238,27): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(1355,39): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(1416,37): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(1417,38): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(1419,44): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(1438,36): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(1449,36): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(1459,36): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(1474,36): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(1484,36): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(1495,36): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(1559,38): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(1561,34): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(1716,19): warning C4101: "InverseTranslationMatrix": Unreferenzierte lokale Variable
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(1835,42): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(1783,15): warning C4101: "InverseTranslationMatrix": Unreferenzierte lokale Variable
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(1862,15): warning C4101: "TranslationMatrix": Unreferenzierte lokale Variable
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(1863,15): warning C4101: "InverseTranslationMatrix": Unreferenzierte lokale Variable
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(1865,15): warning C4101: "ScaleMatrix": Unreferenzierte lokale Variable
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(1861,15): warning C4101: "RotationMatrix": Unreferenzierte lokale Variable
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(1864,15): warning C4101: "TmpMatrix": Unreferenzierte lokale Variable
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(1925,30): warning C4804: "<=": unsichere Verwendung des Typs "bool" in einer Operation
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(1958,38): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(1959,38): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(1960,37): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(1961,38): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\GDV_Spielprojekt.cpp(2043,47): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  GDV_Spielprojekt.vcxproj -> E:\yoshix_vs_2019\yoshix_vs_2019\GDV_Spielprojekt\GDV_Spielprojekt\..\..\bin\GDV_Spielprojekt.exe
